@@ -1,1 +1,3 @@
-# google-results
+Starting to make the Google results page.  I got pretty comfortable with Flexbox when making the homepage, but I would like to try out the grid layout on this page (if appropriate) and see if I can incorporate flexbox into it.
+
+I've started on it and feel that flexbox would work best on its own for the majority of the page.  Considering practicing grid to make the bottom portion with "Related searches"
